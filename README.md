@@ -130,5 +130,5 @@ If you use any part of this repository, please cite the relevant publication
 
 ## License
 
-TBD. Third-party code retains its own license (MAPE-PPI is MIT; ProstT5 is
-governed by the Rostlab model card).
+MIT — see [LICENSE](LICENSE). Third-party code retains its own license
+(MAPE-PPI is MIT; ProstT5 is governed by the Rostlab model card).

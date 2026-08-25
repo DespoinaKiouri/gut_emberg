@@ -200,3 +200,7 @@ Notebooks in `notebooks/GUT_MB_Clinical/`:
 - Model registry / output roots are resolved four levels above `config.py`,
   i.e. `projects/c3ppi/`. Set `MODEL_REGISTRY` / `OUTPUT` there or via
   environment variables if a different location is preferred.
+
+## 7. License
+
+MIT — see the root [LICENSE](../LICENSE) at the monorepo level.

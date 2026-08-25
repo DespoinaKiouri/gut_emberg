@@ -243,3 +243,7 @@ before running.
    proteome UniProt IDs.
 10. **3did2020.csv** — 3did golden-standard DDIs used as positive DDI priors
     and, in LP, as pinned constraints.
+
+## 7. License
+
+MIT — see the root [LICENSE](../LICENSE) at the monorepo level.
